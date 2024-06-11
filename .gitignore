@@ -9,3 +9,8 @@ pre_cci.c
 mdrv_cmd.txt
 options.txt
 result*
+*.log
+output.txt
+OutputColoringDatabase.json
+ReplaySummaryReport.xml
+*.shunra
